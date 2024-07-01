@@ -42,6 +42,11 @@
     }
   }
   
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
   /* BASE STYLES */
   body {
     font-family: "Inter", sans-serif;
@@ -50,6 +55,7 @@
     display: flex;
     justify-content: center;
     min-height: 1500px;
+    
   }
   
   .header {
