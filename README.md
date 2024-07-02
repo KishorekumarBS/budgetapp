@@ -51,9 +51,11 @@
 
 ## 📊 Project Structure
 BudgetApp_JSproject/
-├── index.html
-├── styles.css
-└── script.js
+.
+    ├── index.html                   
+    ├── styles.css                    
+    ├── script.js                     
+    
 
 ## 🤝 Contributing
 
