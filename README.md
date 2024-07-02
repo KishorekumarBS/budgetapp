@@ -49,9 +49,9 @@
 - CSS3
 - JavaScript (ES6+)
 
-## 📊 Project Structure
+### 📊 Project Structure
 BudgetApp_JSproject/
-.
+    .
     ├── index.html                   
     ├── styles.css                    
     ├── script.js                     
