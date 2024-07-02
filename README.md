@@ -50,8 +50,8 @@
 - JavaScript (ES6+)
 
 ### 📊 Project Structure
-BudgetApp_JSproject/
-    .
+BudgetApp_JSproject/.
+
     ├── index.html                   
     ├── styles.css                    
     ├── script.js                     
