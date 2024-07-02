@@ -1,7 +1,7 @@
 # 💰 BudgetApp
 
 <div align="center">
-  <img src="https://your-image-url-here.com/budget-app-logo.png" alt="BudgetApp Logo" width="200"/>
+  
   
   <p align="center">
     A sleek and intuitive budget tracker to manage your finances with ease!
@@ -9,9 +9,9 @@
     <a href="https://budgetapp-kishore.vercel.app/"><strong>View Demo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/yourusername/budgetapp/issues">Report Bug</a>
+    <a href="https://github.com/KishorekumarBS/budgetapp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/yourusername/budgetapp/issues">Request Feature</a>
+    <a href="https://github.com/KishorekumarBS/budgetapp/issues">Request Feature</a>
   </p>
 </div>
 
@@ -39,7 +39,7 @@
 
 <details>
   <summary>Click to view screenshots</summary>
-  <img src="/Users/patron/Desktop/HTML_practice/Screenshot-1.png" name="screenshot-1" alt="BudgetApp Screenshot 1">
+  <img src="Screenshot-1.png" name="screenshot-1" alt="BudgetApp Screenshot 1">
   
 </details>
 
