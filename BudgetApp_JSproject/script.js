@@ -93,6 +93,9 @@ const clickHandler = (event) => {
         if (income - expenses < 0) {
             balanceNumberEl.style.color = 'red';
         }
+        if (income - expenses > 0) {
+            balanceNumberEl.style.color = 'black';
+        }
     }
   };
   
